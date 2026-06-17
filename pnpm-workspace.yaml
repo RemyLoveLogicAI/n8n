@@ -11,7 +11,7 @@ catalog:
   '@types/lodash': ^4.14.195
   '@types/uuid': ^10.0.0
   '@types/xml2js': ^0.4.14
-  axios: 1.7.4
+  axios: 1.16.0
   basic-auth: 2.0.1
   chokidar: 4.0.1
   fast-glob: 3.2.12
@@ -22,7 +22,7 @@ catalog:
   luxon: 3.4.4
   nanoid: 3.3.6
   typedi: 0.10.0
-  uuid: 10.0.0
+  uuid: 14.0.0
   xml2js: 0.6.2
   xss: 1.0.15
   zod: 3.23.8
@@ -34,7 +34,7 @@ catalogs:
     '@vitejs/plugin-vue': ^5.2.1
     '@sentry/vue': ^8.33.1
     vite: ^6.0.2
-    vitest: ^2.1.8
+    vitest: ^3.2.6
     vitest-mock-extended: ^2.0.2
     vue: ^3.5.13
     vue-router: ^4.5.0
